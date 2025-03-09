@@ -2,6 +2,7 @@
 Python application to conveniently clip images that outputs cropped images fixed size (no matter the zoom/magnification).
 
 Change the crop size and output file type as needed:
+
 ![image](https://github.com/user-attachments/assets/f7488b44-7e0c-4f5d-8e40-6b425fcbbc9c)
 
 Select the folder containing images on prompt. Position the area of interest and clip 
